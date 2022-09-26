@@ -1,2 +1,2 @@
-# faydali-listeler
-kullanıcı form alanları için lazim olan listeler
+# her turlu form alanlari icin lazim olan listeler
+kullanıcı form alanları; meslek, cinsiyet, ulkeler, sehirler gibi
