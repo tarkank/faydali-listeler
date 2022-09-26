@@ -1,2 +1,2 @@
 # faydali-listeler
-kullanıcı form alanları için faydalı listeler
+kullanıcı form alanları için lazim olan listeler
